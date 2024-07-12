@@ -1,7 +1,11 @@
 # PCD_UAS_202231103_2024_ITPLN
-teori pendukung
+# teori pendukung
+# Median Filtering
+Median filtering adalah teknik non-linear yang menggantikan nilai setiap piksel dengan median dari nilai piksel di sekitarnya. Metode ini sangat efektif untuk menghilangkan noise impulsif seperti salt-and-pepper noise.
+# Mean Filtering (Average Filtering)
+Mean filtering adalah teknik yang menggunakan rata-rata nilai piksel di sekitar suatu piksel untuk menentukan nilai baru dari piksel tersebut. Metode ini adalah jenis low-pass filter yang menghaluskan gambar dengan mengurangi variasi intensitas.
 
-
+# penjelasan dari kodingan
 ```pyton
 import cv2
 import numpy as np
