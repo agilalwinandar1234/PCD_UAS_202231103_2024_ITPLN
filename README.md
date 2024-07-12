@@ -1,4 +1,7 @@
 # PCD_UAS_202231103_2024_ITPLN
+teori pendukung
+
+
 ```pyton
 import cv2
 import numpy as np
